@@ -1,0 +1,27 @@
+_repo: Story-Lives-of-Great-Musicians_19748
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rowbotham, Francis Jameson
+    gutenberg_agent_id: '8860'
+    url: http://www.gutenberg.org/2009/agents/8860
+description: ''
+gutenberg_bookshelf: Music
+gutenberg_issued: '2006-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19748'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Musicians'
+- !lcc 'ML'
+- !lcsh 'Composers'
+tableOfContents: Bach -- Handel -- Haydn -- Mozart -- Beethoven -- Schubert -- Mendelssohn.
+title: Story-Lives of Great Musicians
+url: http://www.gutenberg.org/ebooks/19748
